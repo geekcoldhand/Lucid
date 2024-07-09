@@ -1,6 +1,6 @@
 Lucid x GWACH webapp
 
-## Deployment https://geekcoldhand.github.io/
+## Deployment [https://geekcoldhand.github.io/](https://geekcoldhand.github.io/Lucid/)
 
 -Fashion Sandbox for  Lucid Clothing ATL
 
