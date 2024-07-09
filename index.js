@@ -166,8 +166,7 @@ function startSplashScreen() {
     mainContent.style.display = "block";
     populateBoxesWithDelay(dragItems);
 
-  }, 3000);
+  }, 1500);
 }
 startSplashScreen();
-//document.addEventListener("DOMContentLoaded", startSplashScreen());
-//start
+
