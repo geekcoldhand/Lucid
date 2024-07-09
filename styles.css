@@ -27,7 +27,7 @@ body {
 }
 #header-hamburger {
   display: none;
-  color: #f03f35;
+  color: #110d0d;
 }
 #header-links {
 
@@ -47,12 +47,12 @@ body {
 }
 
 #gif-logo {
-  width: 130px;
+  width: 50px;
   /* height: 140px; */
  
 }
 .header-logo {
-  width: 130px;
+  width: 80px;
   /* height: 140px; */
   animation: Grow 6s infinite;
   z-index: 20;
@@ -111,7 +111,7 @@ footer{
   justify-content: center;
   align-items: center;
   width: 100%;
-  background-color: #f03f35;
+  background-color: #1e1413;
   text-align: center;
 }
 .banner-message{
