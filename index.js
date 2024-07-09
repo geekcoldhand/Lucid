@@ -28,7 +28,7 @@ function populateBoxesWithDelay(items) {
 
 function handleAddMetaData(e) {
    e.preventDefault();
-  window.open("https://www.wisdomatl.com/collections/all");
+  window.open("https://shop.lucidfc.us/");
 }
 
 function startDrag(moveClientX, moveClientY, index, item) {
